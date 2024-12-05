@@ -1,8 +1,7 @@
 ## Hi there! 👋 I am Ismetcan!
 
 ### About Me
-I am a Computer Engineering student at Middle East Technical University with a passion for Artificial Intelligence and its diverse applications. 
-I am actively exploring and improving my skills in areas such as:  
+I am a Computer Engineering student at Middle East Technical University with a passion for Artificial Intelligence and its diverse applications. I am actively exploring and improving my skills in areas such as:  
 - 🧮 **Linear Regression**  
 - 📊 **Classification and Clustering**  
 - 📝 **Natural Language Processing (NLP)**  
