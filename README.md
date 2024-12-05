@@ -1,4 +1,4 @@
-## Hi there! 👋 I am Ismetcan!
+## Hi there! 👋 I am Ismet can!
 
 ### About Me
 I am a Computer Engineering student at Middle East Technical University with a passion for Artificial Intelligence and its diverse applications. I am actively exploring and improving my skills in areas such as:  
