@@ -6,6 +6,7 @@ I am a Computer Engineering student at Middle East Technical University with a p
 - 📊 **Classification and Clustering**  
 - 📝 **Natural Language Processing (NLP)**  
 - 🖼️ **Computer Vision (CV)**
+- 🤖 **Convolutional Neural Networks (CNN)**
 
 I am enthusiastic about collaborating on innovative projects and am open to freelance or internship opportunities. Let's create something impactful together!
 
